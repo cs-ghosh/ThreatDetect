@@ -2,7 +2,7 @@
 
 ### Linux: 
 
-![linux_ip](../Screenshots/linux_initial_ip.png)
+![linux_ip](../Step4_Network_Config_Test/Screenshots/linux_initial_ip.png)
 
 ### Windows:
  
